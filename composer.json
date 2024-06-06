@@ -1,12 +1,12 @@
 {
-    "name": "tagmydoc/laravel-cart",
+    "name": "flixtechs/abandon",
     "description": "A package used to create and manage carts (such as shopping, recently viewed, compared items...) in Laravel application.",
     "keywords": ["cart", "shoppingcart", "shopping", "laravel"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Jackie Do",
-            "email": "anhvudo@gmail.com"
+            "name": "Given ncube",
+            "email": "given@flixtechs.co.zw"
         }
     ],
     "require": {
